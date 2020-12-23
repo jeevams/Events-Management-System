@@ -83,7 +83,7 @@ td{
     <div class="box">
         <center>
         <form>
-            <table cellspacing="20" cellpadding="3" bgcolor="black" style="margin-left:auto; margin-right:auto;">				<h1 style="color:white">Product List</h1>
+            <table cellspacing="20" cellpadding="3" bgcolor="black" style="margin-left:auto; margin-right:auto;">				<h1 style="color:white">Event List</h1>
                         <a href="logout.jsp"><button style="width: max-content;height: 40px;background: black;color: aliceblue;outline: none;border: 0;padding: 8px;border-radius: 5px;box-sizing: border-box;margin-top:-60px;margin-left:140px;position:absolute;">LOGOUT</button></a>
                 <tr style="padding:8px;">
                     <th style="padding:8px;">EVENT NAME</th>
